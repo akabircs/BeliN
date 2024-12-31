@@ -28,6 +28,17 @@ If you find this work useful for your research, please consider citing:
 |Daily Vorer Pata|	https://www.dailyvorerpata.com/cat.php?cd=293|
 |Daily Khabar Patra	|https://khoborpatrabd.com/?s=religion|
 
+## Model checkpoints - https://huggingface.co/mdosama39
+|Approach | Model | Hugging Face API|
+|------------|----------|----------|
+Baseline| Bangla T5| mdosama39/banglat5-finetuned-new-method-new|
+| |mBART| mdosama39/mbart-large-50-headline-base|
+||mT5| mdosama39/mt5-base-headline-base|
+||mT0| mdosama39/mt0-base-headline-base|
+|MultiGen|Bangla T5| mdosama39/banglat5-headline-Final|
+||mBART| mdosama39/mbart-large-50-headline_WithIp|
+||mT5| mdosama39/mt5-base-headline_WithIp|
+||mT0| mdosama39/mt0-base-headline_WithIp|
 
 ## Contributors
 - Md Osama (osama_cse@baust.edu.bd)
