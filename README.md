@@ -1,7 +1,17 @@
 # BeliN
-This is the official repository contains the code, data, and models of the paper titled [**"BeliN: A Novel Corpus for Bengali Religious News Headline Generation using Contextual Feature Fusion"**](https://)
-## Citation
-If you find this work useful for your research, please consider citing:
+This is the official repository contains the code, data, and models of the paper titled [**"BeliN: A Novel Corpus for Bengali Religious News Headline Generation using Contextual Feature Fusion"**](https://arxiv.org/abs/2501.01069)
+
+## Cite this paper as
+```bibtex
+@misc{BeliN,
+  title = {BeliN: A Novel Corpus for Bengali Religious News Headline Generation using Contextual Feature Fusion},
+  author = {Md Osama and Ashim Dey and Kawsar Ahmed and Muhammad Ashad Kabir},
+  archivePrefix = {arXiv},
+  eprint = {2501.01069},
+  doi = {10.48550/arXiv.2501.01069},
+  year = {2025}
+}
+```
 
 ## Dataset Overview
 ![image](https://github.com/user-attachments/assets/1e271aa2-104b-4b06-9a75-26f122423d47)
